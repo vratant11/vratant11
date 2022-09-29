@@ -2,6 +2,28 @@
 <h1 align="center">Hi 👋, I'm Vratant Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: Vratant
+            # Text on contribution graph 
+            text: VRATANT
+       - uses: jasineri/simple-push-action@v1
+
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vratant11&label=Profile%20views&color=0e75b6&style=flat" alt="vratant11" /> </p>
 
 - 🌱 I’m currently learning **Reactjs**
