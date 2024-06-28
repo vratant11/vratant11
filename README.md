@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vratant11](https://github.com/vratant11)
 
-- 💬 Ask me about **react,node**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vratant11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mRS0bK5qawSdjhczah2ALOojX_1gYhjW/view](https://drive.google.com/file/d/1mRS0bK5qawSdjhczah2ALOojX_1gYhjW/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QcYJEMjyQYEBCWIZmbLicRRY_2LQHTJ9/view?usp=drive_link](Resume)
 
 
 
